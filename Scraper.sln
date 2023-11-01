@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Scraper", "Scraper\Scraper.csproj", "{B5AF6296-1DC2-47A6-AA1C-527E99D5D6E4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Scraper.Integrations", "Scraper.Itegrations\Scraper.Integrations.csproj", "{DDEC3D09-508C-4A34-ABCB-D71229FD6835}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5AF6296-1DC2-47A6-AA1C-527E99D5D6E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5AF6296-1DC2-47A6-AA1C-527E99D5D6E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5AF6296-1DC2-47A6-AA1C-527E99D5D6E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5AF6296-1DC2-47A6-AA1C-527E99D5D6E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDEC3D09-508C-4A34-ABCB-D71229FD6835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDEC3D09-508C-4A34-ABCB-D71229FD6835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDEC3D09-508C-4A34-ABCB-D71229FD6835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDEC3D09-508C-4A34-ABCB-D71229FD6835}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F525E872-DE70-4813-8973-53077B0DCE54}
+	EndGlobalSection
+EndGlobal
